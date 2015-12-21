@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["frameworks","Provides the specific Framework implementations for the Library Operations."]],"trait":[["NN","Provides the functionality for a backend to support Neural Network related operations."],["NNOperationConfig","Provides generic NN Operation Config functionality."]]});
